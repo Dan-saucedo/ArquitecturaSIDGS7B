@@ -1,4 +1,4 @@
-1. ## Seguridad
+1. # Seguridad
 El sistema debe garantizar que las alertas solo sean recibidas a personal autorizado y que la información no sea interceptada ni manipulada. 
 *Requirement*: El sistema debe garantizar que las alertas solo sean emitidas por personal autorizado y que la información no sea interceptada ni manipulada.
 
@@ -11,8 +11,8 @@ Urban Alert debe ser capaz de evolucionar y conectarse con nuevas tecnologías (
 *Requirement*: El sistema debe contar con una Capa de Integración Universal (API Gateway) que permita añadir nuevos canales de entrada y salida de datos de forma modular.
 
 ## New Functional Requirements
-**Red de Resiliencia Mesh (Computación de Borde)**
-**Integración de "Gemelo Digital" para Simulación en Tiempo Real**
-**Reconocimiento Acústico y Visual Autónomo (IoT)**
-**Alertas Hápticas y de Accesibilidad Universal (IoT Home)**
-**Triaje Predictivo mediante Inteligencia Artificial (IA)**
+1. **Red de Resiliencia Mesh (Computación de Borde)**
+2. **Integración de "Gemelo Digital" para Simulación en Tiempo Real**
+3. **Reconocimiento Acústico y Visual Autónomo (IoT)**
+4. **Alertas Hápticas y de Accesibilidad Universal (IoT Home)**
+5. **Triaje Predictivo mediante Inteligencia Artificial (IA)**
